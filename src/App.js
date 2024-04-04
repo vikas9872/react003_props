@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Props from './propsConcept'
+import { MultipleElementsasProps } from './destructuringConcept'
 
 function App() {
   return (
